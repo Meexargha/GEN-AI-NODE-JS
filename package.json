@@ -1,0 +1,17 @@
+{
+  "name": "groq-chat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "groq-sdk": "^1.6.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
